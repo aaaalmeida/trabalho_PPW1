@@ -1,0 +1,43 @@
+#home {
+    padding: 0em, 1em, 1em, 0em;
+    margin: 0;
+    background-color: rgb(76, 215, 115);
+    background-image: url("/PPW1/avaliacao1/imagens/background.jpg");
+}
+#curiosidades{
+    background-image: url("/PPW1/avaliacao1/imagens/k3dcg8qp5ko61.png");
+}
+#contato{
+    background-image: url("/PPW1/avaliacao1/imagens/lj8m9f8aap951.jpg");
+}
+div {
+    width: 400px;
+    padding: 10px;
+    border: 5px solid rgb(211, 143, 182);
+    margin: auto;
+    margin-bottom: 1em;
+    background-color: rgb(141, 235, 27);
+}
+
+.divMaisGordinho {
+    width: 700px;
+    padding: 30px;
+    border: 5px solid rgb(211, 143, 182);
+    margin: auto;
+    background-color: rgb(141, 235, 27);
+}
+
+#titulo {
+    font-size: 2em;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+div table {
+    border: 50px, black;
+}
+
+div table tr td a {
+    border: 3px;
+    font-size: 1.5em;
+}
