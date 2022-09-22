@@ -1,21 +1,47 @@
 #home {
-    padding: 0em, 1em, 1em, 0em;
-    margin: 0;
-    background-color: rgb(76, 215, 115);
     background-image: url("/PPW1/avaliacao1/imagens/background.jpg");
 }
-#curiosidades{
-    background-image: url("/PPW1/avaliacao1/imagens/k3dcg8qp5ko61.png");
+
+#curiosidades { 
+    background-image: url("/PPW1/avaliacao1/imagens/chapeu.png");
 }
-#contato{
+
+#contato {
     background-image: url("/PPW1/avaliacao1/imagens/lj8m9f8aap951.jpg");
 }
+
+#fotos {
+    background-image: url("/PPW1/avaliacao1/imagens/correndo.jpg");
+}
+
 div {
-    width: 400px;
-    padding: 10px;
+    width: 500px;
+    padding: 0;
     border: 5px solid rgb(211, 143, 182);
     margin: auto;
     margin-bottom: 1em;
+    background-color: rgb(141, 235, 27);
+}
+
+div input form {
+    resize: vertical;
+    width: 500px;
+    height: 5em;
+}
+#divzaoDeFora{
+    width: 630px;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 1em;
+    border: 5px solid rgb(211, 143, 182);
+    background-color: rgb(141, 235, 27);
+}
+
+.divzinhoDeDentro{
+    width: 300px;
+    padding: 0;
+    margin: auto;
+    border: 5px solid rgb(211, 143, 182);
     background-color: rgb(141, 235, 27);
 }
 
